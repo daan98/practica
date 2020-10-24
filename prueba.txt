@@ -1,1 +1,5 @@
-Este archivo es una prueba para p´racticar el commit hacia un repositoria de GitHub.
+Este archivo es una prueba para prácticar el commit hacia un repositoria de GitHub.
+
+Daniel es un joven recien graduado que le gusta el desarrollo de páginas web.
+
+Actualmente práctica el backend.
