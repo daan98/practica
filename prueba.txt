@@ -2,4 +2,4 @@ Este archivo es una prueba para prácticar el commit hacia un repositoria de Git
 
 Daniel es un joven recien graduado que le gusta el desarrollo de páginas web.
 
-Actualmente práctica el backend.
+Actualmente práctica el backend, Esa es la razón por la que esta aprendiendo git y GitHub.
