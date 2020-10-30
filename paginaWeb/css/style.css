@@ -17,10 +17,28 @@ li {
     width: fit-content;
 }
 
+img {
+    width: 200px;
+    margin: 10px auto;
+}
+
 .cabecera {
     background-color: white;
     padding: 20px 15px;
     margin: 15px auto 0;
     width: 50%;
     border-radius: 15px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid :nth-child(1) {
+    filter: contrast(2);
+}
+
+.grid :nth-child(2) {
+    filter: grayscale(.5);
 }
