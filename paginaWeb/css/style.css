@@ -10,9 +10,17 @@ ul,
 li {
     color: rgb(247, 170, 6);
     font-size: 12;
-    margin: 5px auto;
+    margin: 10px auto;
 }
 
 li {
     width: fit-content;
+}
+
+.cabecera {
+    background-color: white;
+    padding: 20px 15px;
+    margin: 15px auto 0;
+    width: 50%;
+    border-radius: 15px;
 }
